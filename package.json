@@ -1,0 +1,17 @@
+{
+  "name": "seidor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "nodemon index.test"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "tape": "^5.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
